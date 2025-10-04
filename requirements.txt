@@ -1,0 +1,8 @@
+yfinance
+pandas
+numpy
+nltk
+newspaper3k
+requests
+beautifulsoup4
+
