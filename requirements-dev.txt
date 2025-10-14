@@ -1,0 +1,19 @@
+# requirements-dev.txt
+# Base requirements (your main requirements.txt should have the core libs)
+-r requirements.txt
+
+# Testing
+pytest
+pytest-cov
+pytest-mock
+
+# Linting / formatting
+black
+flake8
+isort
+
+# Type checking
+mypy
+types-requests
+types-pytz
+types-python-dateutil
